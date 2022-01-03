@@ -7,5 +7,8 @@ sudo git add --all
 # Commit the repo with a message
 sudo git commit -m "First Push"
 
+# Git remote
+git remote add (name) (url)
+
 # Push 
 sudo git push 
