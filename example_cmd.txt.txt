@@ -1,0 +1,11 @@
+# Create new directory and init repo
+sudo git init Cours-Git
+
+# Create .gitignore + add to repo
+sudo git add --all
+
+# Commit the repo with a message
+sudo git commit -m "First Push"
+
+# Push 
+sudo git push 
